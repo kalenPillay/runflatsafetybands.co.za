@@ -4422,7 +4422,7 @@ blockquote{
 }
 
 .facebook-block {
-    background: #F1F3EE;
+    background: #FF0000;
     padding: 5px 0px 5px 69px;
 }
 
@@ -4442,7 +4442,7 @@ blockquote{
 
 .home-feature {
     padding: 20px 68px 40px;
-    background-color:#53575A;
+    background-color:white;
     background-image: url(/Content/images/home-blockBG.png);
     background-size: cover;
     background-position: center;
@@ -4463,7 +4463,8 @@ blockquote{
 }
 
 #footer-section {
-    background: #24272A;
+    background: #191970;
+	width: 100%;
 }
 
 footer p{
