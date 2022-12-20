@@ -1126,7 +1126,7 @@ a.download-link span i{
     position: absolute;
     display: block;
     content: "";
-    background-color: #F59E19;
+    background-color: #f51919;
     width: 50px;
     height: 5px;
     left: 0;
@@ -4442,7 +4442,7 @@ blockquote{
 
 .home-feature {
     padding: 20px 68px 40px;
-    background-color:white;
+    background-color:light-blue;
     background-image: url(/Content/images/home-blockBG.png);
     background-size: cover;
     background-position: center;
